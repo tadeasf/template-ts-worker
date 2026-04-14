@@ -11,7 +11,12 @@
       "dist",
       ".wrangler",
       "docs/.vitepress/cache",
-      "docs/.vitepress/dist"
+      "docs/.vitepress/dist",
+      "biome.json",
+      "bun.lock",
+      "package.json",
+      "tsconfig.json",
+      "wrangler.jsonc"
     ]
   },
   "formatter": {
