@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "__PROJECT_NAME__",
+  "name": "placeholder-worker",
   "main": "src/index.ts",
   "compatibility_date": "2025-01-15",
   "compatibility_flags": ["nodejs_compat"],
@@ -10,8 +10,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "__D1_DATABASE_NAME__",
-      "database_id": "__D1_DATABASE_ID__"
+      "database_name": "placeholder-db",
+      "database_id": "00000000-0000-0000-0000-000000000000"
     }
   ]
 }
